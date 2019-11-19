@@ -1,0 +1,14 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#counter {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.value {
+  width: 25%;
+  margin: auto;
+}

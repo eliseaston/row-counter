@@ -6,9 +6,14 @@ body {
 #counter {
   width: 50%;
   margin: 0 auto;
+  font-size: 100px;
 }
 
 .value {
   width: 25%;
   margin: auto;
+}
+
+button {
+  font-size: 150px;
 }

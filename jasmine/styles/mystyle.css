@@ -1,6 +1,7 @@
 body {
   margin: 0 auto;
   text-align: center;
+  background: skyblue;
 }
 
 #counter {
@@ -16,4 +17,10 @@ body {
 
 button {
   font-size: 150px;
+  margin: 50px;
+}
+
+#counter {
+  background: maroon;
+  width: 33%;
 }
